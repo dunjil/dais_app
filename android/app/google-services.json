@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350161037901",
+    "firebase_url": "https://daisapp-aa99d.firebaseio.com",
+    "project_id": "daisapp-aa99d",
+    "storage_bucket": "daisapp-aa99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350161037901:android:2bef60c4a95de78db5ca04",
+        "android_client_info": {
+          "package_name": "com.dais.daisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350161037901-24fkhavkljfmj7p3mkfcek3g9tcm9qf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMHUe7yb60WRHVFz1dV9KjskqTcFqQNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350161037901-24fkhavkljfmj7p3mkfcek3g9tcm9qf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
